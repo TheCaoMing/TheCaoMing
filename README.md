@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheCaoMing
-- bilibili:https://space.bilibili.com/1613375177/dynamic
+-    bilibili:https://space.bilibili.com/1613375177/dynamic
 - 📫 How to reach me thecaoming@outlook.com
 
 <!---
